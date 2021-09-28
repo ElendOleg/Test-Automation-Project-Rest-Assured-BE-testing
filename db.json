@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "firstName": "Kif",
+      "lastName": "Kifov",
+      "idSub": 4324321,
+      "id": 1
+    },
+    {
+      "firstName": "Olya",
+      "lastName": "Ivanova",
+      "idSub": 323241,
+      "id": 2
+    },
+    {
+      "firstName": "Pip",
+      "lastName": "Pipov",
+      "idSub": 1332345,
+      "id": 3
+    },
+    {
+      "firstName": "Mike",
+      "lastName": "Jikov",
+      "idSub": 323241,
+      "id": 4
+    },
+    {
+      "firstName": "Mike",
+      "lastName": "Jikov",
+      "idSub": 323241,
+      "id": 5
+    }
+  ],
+  "customers": [
+    {
+      "money": "Oleg",
+      "family": "Elend",
+      "idSub": 1023241,
+      "id": 1
+    },
+    {
+      "money": "Lola",
+      "family": "Hotona",
+      "idSub": 511234,
+      "id": 2
+    }
+  ]
+}
